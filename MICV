@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<title>Currículum - Mark Gregory Arisaca Torres</title>
+		<meta charset="UTF-8">
+	  </head>
+	  <body>
+		
+		<img src="mark arisaca.png" alt="Foto de perfil" width="150">
+		<h1>Mark Gregory Arisaca Torres</h1>
+		<p><strong>Dirección:</strong> Jr. Moquegua, Ayaviri</p>
+		<p><strong>Teléfono:</strong> 938315815</p>
+		<p><strong>Correo:</strong> arisacamark@gmail.com</p>
+		<p><strong>DNI:</strong> 70051622</p>
+	  
+		<h2>Resumen Profesional</h2>
+		<p>Docente especializado en la enseñanza del área de matemáticas, con 3 años de experiencia enseñando a estudiantes de secundaria y preuniversitario. Mi enfoque se centra en el desarrollo de métodos pedagógicos que facilitan el aprendizaje y lo hacen más entretenido y ameno, al mismo tiempo que mejoran el rendimiento académico. Tengo habilidad para gestionar grupos grandes de estudiantes y poseo excelentes habilidades de comunicación y resolución de conflictos en el aula.</p>
+	  
+		<h2>Edad</h2>
+		<p>25 años</p>
+	  
+		<h2>Idiomas</h2>
+		<ul>
+		  <li>Español (nativo)</li>
+		  <li>Quechua (intermedio)</li>
+		  <li>Inglés (básico)</li>
+		</ul>
+	  
+		<h2>Habilidades</h2>
+		<ul>
+		  <li>Escucha empática</li>
+		  <li>Programación de actividades</li>
+		  <li>Planificación de clases</li>
+		  <li>Pedagogía</li>
+		  <li>Capacidad de trabajo</li>
+		  <li>Flexibilidad y adaptabilidad</li>
+		  <li>Estrategias creativas</li>
+		  <li>Motivación de estudiantes</li>
+		  <li>Organización y disciplina</li>
+		</ul>
+	  
+		<h2>Experiencia Laboral</h2>
+		<ul>
+		  <li>
+			<strong>Profesor de Geometría</strong><br>
+			Preparatoria Carpe Diem - Ayaviri<br>
+			Noviembre 2023 - Presente
+		  </li>
+		  <li>
+			<strong>Profesor de Álgebra y Aritmética</strong><br>
+			Sociedad Educativa Gauss - Ayaviri<br>
+			Enero 2023 - Noviembre 2023
+		  </li>
+		</ul>
+	  
+		<h2>Funciones destacadas</h2>
+		<ul>
+		  <li>Fomento del pensamiento crítico y resolución de problemas en el aula de matemáticas.</li>
+		  <li>Preparación de material didáctico y actividades para las clases.</li>
+		  <li>Abordaje de métodos de enseñanza-aprendizaje centrados en el estudiante.</li>
+		  <li>Gestión de herramientas tecnológicas en clases presenciales y virtuales.</li>
+		</ul>
+	  
+		<h2>Estudios</h2>
+		<ul>
+		  <li><strong>Educación Secundaria Matemática</strong><br>
+		  IESPP - Ayaviri<br>
+		  Agosto 2017 - Agosto 2022</li>
+	  
+		  <li><strong>Operación de Computadoras</strong><br>
+		  CETPRO - Ayaviri<br>
+		  Marzo 2018 - Diciembre 2019</li>
+		</ul>
+		<a href="https://wa.me/message/XJ47HBQIK3WOB1" target="_blank">
+			<img src="WhatsApp.png" alt="WhatsApp" width="50">
+		  </a>
+		  
+	  </body>
+</html># Plataformas-HTML
